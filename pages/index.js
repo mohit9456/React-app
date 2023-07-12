@@ -7,12 +7,12 @@ export default function Home() {
 
   const task1 = (e) => {
     e.preventDefault()
-    router.push('https://subscription-gateway.netlify.app')
+    router.push('https://chatbot-f6393.web.app/')
   }
 
   const task2 = (e) => {
     e.preventDefault()
-    router.push('https://chatbot-f6393.web.app/')
+    router.push('https://subscription-gateway.netlify.app')
   }
 
 
